@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: Smart Home Security 
+description: Threat Modelling and attack detection on smart home networks.
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+#redirect: https://unsplash.com
 importance: 3
 category: work
 ---
