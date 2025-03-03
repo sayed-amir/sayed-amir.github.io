@@ -2,7 +2,7 @@
 layout: page
 title: PLS on WiFi
 description: Physical Layer Security based on Software Defined Wireless Networks
-img: assets/img/PLS.jpg
+img: assets/img/PLS.png
 importance: 2
 category: work
 giscus_comments: true
