@@ -1,7 +1,7 @@
 ---
 layout: page
-title: PLS on WiFi
-description: Physical Layer Security based on Software Defined Wireless Networks
+title: Network Controlled PLS
+description: Physical Layer Security based on Software Defined Wireless Networking
 img: assets/img/PLS.jpeg
 importance: 2
 category: work
