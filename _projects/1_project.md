@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Private unlicensed 5G
-description: with background image
+description: Private 5G setup in unlicensed band using OpenAirInterface
 img: assets/img/5G1.jpg
 importance: 1
 category: work
