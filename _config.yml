@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-AU"
 site_theme               : "default"
-title                    : "Sayed Amir Hoseini"
+title                    : "Sayed Amir Hoseini "
 title_separator          : "-"
 name                     : &name "Sayed Amir Hoseini"
 description              : &description "Lecturer (Assistant Professor) at UNSW Canberra"
