@@ -1,6 +1,0 @@
-- name: Push changes back to repo
-  run: |
-    git config user.name "sayed-amir"
-    git config user.email "youremail@example.com"
-    git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/sayed-amir/sayed-amir.github.io.git
-    git push origin master
