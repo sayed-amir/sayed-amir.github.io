@@ -20,8 +20,11 @@ main:
   #- title: "Portfolio"
   #  url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Professional Activity"
+    url: /prof-activity/
+
+  - title: "PhD Opportunities"
+    url: /future-phd/
     
   #- title: "CV"
   #  url: /cv/
