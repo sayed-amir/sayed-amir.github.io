@@ -21,6 +21,10 @@ toc: true
 
   <h3>Editorials</h3>
   <ul>
+      <li>Guest Editor, Special Issue <em>Intelligent and Resilient Networking for the Low-Altitude Economy: From Autonomous Systems to Scalable Services </em>, Ad Hoc Networks (<a 	href="https://www.sciencedirect.com/special-issue/329299/intelligent-and-resilient-networking-for-the-low-altitude-economy-from-autonomous-systems-to-scalable-services" 	target="_blank">link</a>)</li>
+	  </ul>
+
+  <ul>
     <li>Guest Editor, Special Issue <em>Recent Advances in Internet of Things and Its Applications</em>, MDPI Applied System Innovation (<a href="https://www.mdpi.com/journal/asi/special_issues/222N4NY740" target="_blank">link</a>)</li>
   </ul>
 
