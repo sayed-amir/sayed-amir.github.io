@@ -11,6 +11,9 @@ I am a Lecturer at UNSW Canberra, where I focus on wireless communications, 5G n
 I joined UNSW Canberra in 2020, where my research focuses on wireless communication technologies such as 5G/6G networks and network security. I am particularly interested in developing cost-effective, real-world solutions for physical layer security (PLS) and private 5G networks, exploring their applications in both commercial and industry settings. My work bridges theoretical advancements with practical implementations, addressing challenges in network performance, cybersecurity, and emerging communication technologies.
 
 ## Highlights
+- Our paper ""<a href="https://arxiv.org/abs/2511.22408" target="_blank">Quantifying Geometry Effects on Low-Cost Intelligent Reflecting Surfaces</a>" is accepted to be presented on IEEE WCNC 2026 in Malaysia.
+
+
 - Our paper on using Federated Learning for SmartHome,"<a href="https://www.sciencedirect.com/science/article/pii/S1389128626000526" target="_blank">FedHome: A federated learning framework for smart home device classification and attack detection by broadband service providers</a>" , is published in *Computer Networks* (<a href="files/FedHome.pdf" target="_blank">PDF</a>).
 
 - I am a Guest Editor for the Special Issue *Intelligent and Resilient Networking for the Low-Altitude Economy: From Autonomous Systems to Scalable Services* in Ad Hoc Networks
